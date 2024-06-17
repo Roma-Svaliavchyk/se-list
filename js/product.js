@@ -29,7 +29,7 @@ axios
         .map((itemProduct) => {
           return `  <li class="item-products">
           <div class="container-product">
-              <img class="products-img" src="./product.png" alt="Іконка панелі">
+              <img class="products-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr7NVmAHQx7T_8Lpqj_T3jxY2A7Idb_hynDyaDQ1uT1XFrgheUgKj4KolOcj93jAfG4E&usqp=CAU" alt="Іконка панелі">
               <div class="products-container-text">
                   <h3 class="products-title">${
                     itemProduct.name

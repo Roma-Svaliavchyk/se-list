@@ -373,6 +373,7 @@ body{
 .products-img{
     margin: 10px;
     height: 27vw;
+    border-radius: 60%
 }
 
 .products-description{
